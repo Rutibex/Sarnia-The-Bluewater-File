@@ -1,0 +1,22 @@
+# Godot generated cache (do not ignore the resource *.import sidecars)
+.godot/
+.import/
+
+# Built/distributable artifacts
+*.pck
+*.exe
+*.zip
+*.app/
+
+# Local tooling / temporary files
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

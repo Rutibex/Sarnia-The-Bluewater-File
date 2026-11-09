@@ -1,2 +1,15 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Keep large binary resources treated as binary by Git
+*.png binary
+*.jpg binary
+*.webp binary
+*.wav binary
+*.ogg binary
+*.ttf binary
+*.pbf binary
+*.pck binary
+*.exe binary
+*.zip binary
+*.gd text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
